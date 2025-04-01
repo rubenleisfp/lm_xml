@@ -1,8 +1,7 @@
 a) Todos los elementos tarea (ya hecha)
-/TareasPorHacer/Tarea
+
 b) Selecciona todos los nodos hijos de tareas por hacer
-/TareasPorHacer
+
 c) Todos los elementos prioridad, hijos de tarea
-//tarea/prioridad
+
 d) Obtén las categorías que tengan un atributo nombre
-//Categoria/@nombre

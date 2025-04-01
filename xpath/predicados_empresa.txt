@@ -1,14 +1,12 @@
 A) Obtener los nombres de todos los empleados:
-//empleado/nombre
+
 B) Obtener los puestos de todos los empleados del departamento de Ventas
-//departamento[@nombre='Ventas']/empleado/puesto
 
 C) Obtener los nombres de los empleados cuyo salario es mayor que $2800
-//empleado[salario > 2800]/nombre
+
 
 D) Obtener los nombres de los empleados del departamento de Contabilidad:
-//departamento[@nombre='Contabilidad']/empleado/nombre
 
 E) Obtener los puestos de los empleados que trabajan en el departamento de Ventas y ganan más de $3000:
-//departamento[@nombre='Ventas']/empleado[salario > 3000]/puesto
+
 
