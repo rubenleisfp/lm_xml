@@ -1,0 +1,31 @@
+<students>
+  <student>
+    <name>María</name>
+    <grades>
+      <subject>
+        <name>Matemáticas</name>
+        <grade>8.5</grade>
+      </subject>
+      <subject>
+        <name>Ciencias</name>
+        <grade>9.0</grade>
+      </subject>
+      <!-- Pueden haber más asignaturas aquí -->
+    </grades>
+  </student>
+  <student>
+    <name>José</name>
+    <grades>
+      <subject>
+        <name>Matemáticas</name>
+        <grade>7.0</grade>
+      </subject>
+      <subject>
+        <name>Ciencias</name>
+        <grade>8.0</grade>
+      </subject>
+      <!-- Pueden haber más asignaturas aquí -->
+    </grades>
+  </student>
+  <!-- Pueden haber más estudiantes aquí -->
+</students>ueden haber
