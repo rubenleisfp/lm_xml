@@ -1,0 +1,15 @@
+<employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="8.5.b.empleados.xsd">
+    <employee>
+        <name>Juan Perez</name>
+        <age>30</age>
+        <email>juan.perez@example.com</email>
+        <salary>3500.75</salary>
+    </employee>
+    <employee>
+        <name>Maria Garcia</name>
+        <age>40</age>
+        <email>maria.garcia@example.com</email>
+        <salary>4200.50</salary>
+    </employee>
+</employees>

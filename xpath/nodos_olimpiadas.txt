@@ -1,0 +1,11 @@
+A) El nombre de todos los deportes que son hijos de competición y olimpiadas
+/olimpiadas/competicion/deporte
+
+B) El nombre de todos los deportistas que son descendientes de olimpiadas
+/olimpiadas//nombre
+
+C) Selecciona todos los apellido1 independientemente de dónde estén situados
+//apellido1
+
+D) Selecciona todos los apellido1 hijos de medalla
+//medalla/apellido1

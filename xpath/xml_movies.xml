@@ -1,0 +1,21 @@
+<interests>
+    <actor>
+        <name>Tom Hanks</name>
+        <movies>
+            <movie>
+                <name>Forrest Gump</name>
+                <country>USA</country>
+                <language>English</language>
+            </movie>
+        </movies>
+        <nationality>USA</nationality>
+        <native>English</native>
+    </actor>
+    <movies>
+        <movie>
+            <name>Uno de los nuestros</name>
+            <country>USA</country>
+            <language>English</language>
+        </movie>
+    </movies>
+</interests>

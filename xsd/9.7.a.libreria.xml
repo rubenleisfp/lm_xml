@@ -1,0 +1,15 @@
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="8.5.a.libreria.xsd">
+    <book>
+        <title>El Quijote</title>
+        <author>Miguel de Cervantes</author>
+        <year>1605</year>
+        <price>19.99</price>
+    </book>
+    <book>
+        <title>Cien Años de Soledad</title>
+        <author>Gabriel Garcia Marquez</author>
+        <year>1967</year>
+        <price>25.50</price>
+    </book>
+</library>

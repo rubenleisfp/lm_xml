@@ -1,0 +1,36 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+    <xsl:output method="html" doctype-public="XSLT-compat" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+
+    <xsl:template match="/">
+        <html>
+            <head>
+                <title>Tareas</title>
+            </head>
+            <body>
+                <h1>Lista de tareas</h1>
+                    <table border="1">
+                <tr>
+                    <th>Titulo</th>
+                    <th>Prioridad</th>
+                    <th>Fecha</th>
+                </tr>
+                <xsl:apply-templates select="TareasPorHacer/Categoria"/>
+                </table>
+            </body>
+        </html>
+    </xsl:template>
+
+    <xsl:template match="Categoria">
+    
+            <xsl:apply-templates select="Tarea"/>
+      
+    </xsl:template>
+
+    <xsl:template match="Tarea">
+        <tr>
+            <td><xsl:value-of select="Titulo"/></td>
+            <td><xsl:value-of select="Prioridad"/></td>
+            <td><xsl:value-of select="Fecha"/></td>
+        </tr>
+    </xsl:template>
+</xsl:stylesheet>

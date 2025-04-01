@@ -1,0 +1,74 @@
+<olimpiadas>
+    <competicion>
+        <deporte>natacion</deporte>
+        <medalla tipo="oro">
+            <nombre>Michael</nombre>
+            <apellido1>Phelps</apellido1>
+            <apellido2></apellido2>
+            <peso>88</peso>
+            <altura>1.93</altura>
+        </medalla>
+        <medalla tipo="plata">
+            <nombre>Chad</nombre>
+            <apellido1>le Clos</apellido1>
+            <apellido2></apellido2>
+            <peso>80</peso>
+            <altura>1.85</altura>
+        </medalla>
+        <medalla tipo="bronce">
+            <nombre>Ryan</nombre>
+            <apellido1>Lochte</apellido1>
+            <apellido2></apellido2>
+            <peso>86</peso>
+            <altura>1.88</altura>
+        </medalla>
+    </competicion>
+    <competicion>
+        <deporte>100m lisos</deporte>
+        <medalla tipo="oro">
+            <nombre>Usain</nombre>
+            <apellido1>Bolt</apellido1>
+            <apellido2></apellido2>
+            <peso>94</peso>
+            <altura>1.95</altura>
+        </medalla>
+        <medalla tipo="plata">
+            <nombre>Justin</nombre>
+            <apellido1>Gatlin</apellido1>
+            <apellido2></apellido2>
+            <peso>83</peso>
+            <altura>1.85</altura>
+        </medalla>
+        <medalla tipo="bronce">
+            <nombre>Andre</nombre>
+            <apellido1>De Grasse</apellido1>
+            <apellido2></apellido2>
+            <peso>76</peso>
+            <altura>1.80</altura>
+        </medalla>
+    </competicion>
+    <competicion>
+        <deporte>salto de altura</deporte>
+        <medalla tipo="oro">
+            <nombre>Stefan</nombre>
+            <apellido1>Holm</apellido1>
+            <apellido2></apellido2>
+            <peso>85</peso>
+            <altura>1.88</altura>
+        </medalla>
+        <medalla tipo="plata">
+            <nombre>Ivan</nombre>
+            <apellido1>Ukhov</apellido1>
+            <apellido2></apellido2>
+            <peso>82</peso>
+            <altura>1.83</altura>
+        </medalla>
+        <medalla tipo="bronce">
+            <nombre>Derek</nombre>
+            <apellido1>Drouin</apellido1>
+            <apellido2></apellido2>
+            <peso>80</peso>
+            <altura>1.92</altura>
+        </medalla>
+    </competicion>
+</olimpiadas>

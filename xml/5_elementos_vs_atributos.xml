@@ -1,0 +1,45 @@
+<alumnos>
+    <alumno id="1">
+        <nombre>Carlos</nombre>
+        <apellidos>García Pérez</apellidos>
+        <fecha_nacimiento>
+            <dia>15</dia>
+            <mes>05</mes>
+            <anho>2003</anho>
+        </fecha_nacimiento>
+        <notas>
+            <LM>
+                <trimestre1>8.5</trimestre1>
+                <trimestre2>7.9</trimestre2>
+                <trimestre3>8.2</trimestre3>
+            </LM>
+            <AD>
+                <trimestre1>7.8</trimestre1>
+                <trimestre2>8.0</trimestre2>
+                <trimestre3>8.4</trimestre3>
+            </AD>
+        </notas>
+    </alumno>
+    <alumno id="2">
+        <nombre>Ana</nombre>
+        <apellidos>Ruiz Martínez</apellidos>
+        <fecha_nacimiento>
+            <dia>23</dia>
+            <mes>09</mes>
+            <anho>2002</anho>
+        </fecha_nacimiento>
+        <notas>
+            <LM>
+                <trimestre1>9.2</trimestre1>
+                <trimestre2>8.9</trimestre2>
+                <trimestre3>9.5</trimestre3>
+            </LM>
+            <AD>
+                <trimestre1>8.6</trimestre1>
+                <trimestre2>8.8</trimestre2>
+                <trimestre3>9.0</trimestre3>
+            </AD>
+        </notas>
+    </alumno>
+</alumnos>
+

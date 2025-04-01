@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
+    <xsl:output method="html" doctype-public="XSLT-compat" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+
+
+  <xsl:template match="/">
+    <html>
+      <head>
+        <title>Lista de libros</title>
+      </head>
+      <body>
+        <h1>Lista de libros</h1>
+        <ol>
+          <xsl:apply-templates select="library/book"/>
+        </ol>
+      </body>
+    </html>
+  </xsl:template>
+
+  <xsl:template match="book">
+    <li>
+      <strong><xsl:value-of select="title"/></strong>. <!-- Título del libro en negrita -->
+      <xsl:value-of select="author"/> <!-- Autor del libro -->
+      (<xsl:value-of select="genre"/>) <!-- Género del libro entre paréntesis -->
+      - <xsl:value-of select="year"/> <!-- Año de publicación del libro -->
+    </li>
+  </xsl:template>
+
+</xsl:stylesheet>

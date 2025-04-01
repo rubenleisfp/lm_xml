@@ -1,0 +1,12 @@
+<productos>
+    <producto>
+        <nombre>Teléfono Móvil</nombre>
+        <precio>300</precio>
+        <descripcion>Teléfono inteligente con cámara de alta resolución y pantalla táctil.</descripcion>
+    </producto>
+    <producto>
+        <nombre>Computadora Portátil</nombre>
+        <precio>800</precio>
+        <descripcion>Portátil con procesador de última generación y pantalla de 15 pulgadas.</descripcion>
+    </producto>
+</productos>

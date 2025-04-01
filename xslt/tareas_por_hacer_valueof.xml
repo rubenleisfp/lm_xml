@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="1.0"
+xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+   <xsl:output method="html" doctype-public="XSLT-compat" omit-xml-declaration="yes" encoding="UTF-8" indent="yes" />
+<xsl:template match="/">
+  <html>
+  <body>
+    <h2>Mis tareas</h2>
+    <table border="1">
+      <tr bgcolor="#9acd32">
+        <th>Nombre tarea</th>
+        <th>Fecha</th>
+      </tr>
+      <tr>
+        <td><xsl:value-of select="TareasPorHacer/Categoria/Tarea/Titulo"/></td>
+        <td><xsl:value-of select="TareasPorHacer/Categoria/Tarea/Fecha"/></td>
+      </tr>
+    </table>
+  </body>
+  </html>
+</xsl:template>
+</xsl:stylesheet>

@@ -1,0 +1,14 @@
+<library>
+  <book>
+    <title>El señor de los anillos</title>
+    <author>J.R.R. Tolkien</author>
+    <genre>Fantasía</genre>
+    <year>1954</year>
+  </book>
+  <book>
+    <title>Cien años de soledad</title>
+    <author>Gabriel García Márquez</author>
+    <genre>Realismo mágico</genre>
+    <year>1967</year>
+  </book>
+</library>

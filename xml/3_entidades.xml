@@ -1,0 +1,13 @@
+<articulos>
+    <articulo id="articulo1">
+        <titulo>Cómo usar HTML &amp; CSS</titulo>
+        <autor>&quot;Juan Pérez&quot;</autor>
+
+        <contenido>&lt;p&gt;En este artículo aprenderás cómo utilizar HTML &amp; CSS para diseñar páginas web increíbles.&lt;/p&gt;</contenido>
+    </articulo>
+    <articulo id="articulo2">
+        <titulo>Introducción a XML</titulo>
+        <autor>María López</autor>
+        <contenido>&lt;p&gt;XML es un lenguaje de marcado que se utiliza para almacenar y transportar datos de manera estructurada. En XML, los caracteres especiales como &lt;, &gt; y &quot; se representan utilizando entidades XML: &amp;lt;, &amp;gt; y &amp;quot; respectivamente.&lt;/p&gt;</contenido>
+    </articulo>
+</articulos>

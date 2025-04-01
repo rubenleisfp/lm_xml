@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<futbolista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+            xsi:noNamespaceSchemaLocation="8.4.a.futbol.xsd">
+    <name>Lucas</name>
+    <dorsal>7</dorsal>
+    <fin_contrato>1970-03-27</fin_contrato>
+    <num_goles>10</num_goles>
+</futbolista>

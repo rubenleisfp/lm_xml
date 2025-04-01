@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <!-- Definición del elemento futbolista -->
+  <xs:element name="futbolista">
+    <xs:complexType>
+      <xs:sequence>
+        <!--TODO: agrega aqui los campos simples de futbolista -->
+
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>

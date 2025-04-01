@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NBA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="9.6.a.nba.xsd">
+  <Nombre>National Basketball Association</Nombre>
+  <Temporada>2023-2024</Temporada>
+  <Equipos>
+    <Equipo>
+      <Nombre>Los Angeles Lakers</Nombre>
+      <Ciudad>Los Angeles</Ciudad>
+      <Fundacion>1947-01-01</Fundacion>
+      <Jugadores>
+        <Jugador>
+          <Nombre>LeBron</Nombre>
+          <Apellido>James</Apellido>
+          <Posicion>Forward</Posicion>
+          <Numero>23</Numero>
+          <Altura>2.06</Altura>
+          <Peso>113.4</Peso>
+          <FechaNacimiento>1984-12-30</FechaNacimiento>
+          <Nacionalidad>USA</Nacionalidad>
+        </Jugador>
+        <!-- Más jugadores -->
+      </Jugadores>
+    </Equipo>
+    <!-- Más equipos -->
+  </Equipos>
+  <Partidos>
+    <Partido>
+      <Fecha>2024-05-21</Fecha>
+      <Local>
+        <Nombre>Los Angeles Lakers</Nombre>
+        <Ciudad>Los Angeles</Ciudad>
+        <Fundacion>1947-01-01</Fundacion>
+        <Jugadores>
+          <Jugador>
+            <Nombre>LeBron</Nombre>
+            <Apellido>James</Apellido>
+            <Posicion>Forward</Posicion>
+            <Numero>23</Numero>
+            <Altura>2.06</Altura>
+            <Peso>113.4</Peso>
+            <FechaNacimiento>1984-12-30</FechaNacimiento>
+            <Nacionalidad>USA</Nacionalidad>
+          </Jugador>
+          <!-- Más jugadores -->
+        </Jugadores>
+      </Local>
+      <Visitante>
+        <Nombre>Golden State Warriors</Nombre>
+        <Ciudad>San Francisco</Ciudad>
+        <Fundacion>1946-01-01</Fundacion>
+        <Jugadores>
+          <Jugador>
+            <Nombre>Stephen</Nombre>
+            <Apellido>Curry</Apellido>
+            <Posicion>Guard</Posicion>
+            <Numero>30</Numero>
+            <Altura>1.91</Altura>
+            <Peso>83.9</Peso>
+            <FechaNacimiento>1988-03-14</FechaNacimiento>
+            <Nacionalidad>USA</Nacionalidad>
+          </Jugador>
+          <!-- Más jugadores -->
+        </Jugadores>
+      </Visitante>
+      <Resultado>102-99</Resultado>
+    </Partido>
+    <!-- Más partidos -->
+  </Partidos>
+</NBA>

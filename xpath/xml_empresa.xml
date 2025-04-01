@@ -1,0 +1,27 @@
+<empresa>
+    <departamento nombre="Ventas">
+      <empleado>
+        <nombre>Juan Pérez</nombre>
+        <puesto>Vendedor</puesto>
+        <salario>2500</salario>
+      </empleado>
+      <empleado>
+        <nombre>María Gómez</nombre>
+        <puesto>Gerente de Ventas</puesto>
+        <salario>3500</salario>
+      </empleado>
+    </departamento>
+    <departamento nombre="Contabilidad">
+      <empleado>
+        <nombre>Carlos Sánchez</nombre>
+        <puesto>Contador</puesto>
+        <salario>3000</salario>
+      </empleado>
+      <empleado>
+        <nombre>Laura Martínez</nombre>
+        <puesto>Analista Financiero</puesto>
+        <salario>2800</salario>
+      </empleado>
+    </departamento>
+  </empresa>
+  
