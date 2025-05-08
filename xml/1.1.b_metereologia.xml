@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <semana>
     <dia nombre="lunes">
       <ciudad nombre="A Coruña">Soleado</ciudad>
@@ -18,5 +19,5 @@
       <ciudad nombre="Pontevedra">Nublado</ciudad>
     </dia>
     <!-- y así sucesivamente para los demás días -->
-  </semana>
+</semana>
   
