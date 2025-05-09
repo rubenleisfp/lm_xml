@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videoclub>
+    <pelicula>
+        <titulo>Avengers: Endgmae</titulo>
+        <director>Joe Russo</director>
+        <actor>Robert Downey Jr</actor>
+    </pelicula>
+    <pelicula tipo="Romántica">
+        <titulo></titulo>
+        <director></director>
+        <actor>Leonardo Di Caprio</actor>
+        <actor>Kate Winslet</actor>
+        <alquiler cod_alquiler="a1" cod_socio="s2">
+            <fecha_ini>01/04/2020</fecha_ini>
+            <fecha_fin>15/04/2020</fecha_fin>
+        </alquiler>
+
+    </pelicula>
+
+    <socio cod_socio="s1">
+        <nombre>Antonio</nombre>
+        <telefono>666555444</telefono>
+    </socio>
+    <socio cod_socio="s2" premium="NO">
+        <nombre>Berta</nombre>
+        <telefono>666999888</telefono>
+    </socio>
+    <socio cod_socio="s3" premium="SI">
+        <nombre>Carlos</nombre>
+        <telefono>666444222</telefono>
+    </socio>
+</videoclub>

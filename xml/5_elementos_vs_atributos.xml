@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <alumnos>
     <alumno id="1">
         <nombre>Carlos</nombre>
@@ -42,4 +43,3 @@
         </notas>
     </alumno>
 </alumnos>
-

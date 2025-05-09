@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <articulos>
     <articulo id="articulo1">
         <titulo>Cómo usar HTML &amp; CSS</titulo>
@@ -7,7 +8,7 @@
     </articulo>
     <articulo id="articulo2">
         <titulo>Introducción a XML</titulo>
-        <autor>María López</autor>
+        <autor>&quot;María López&quot;</autor>
         <contenido>&lt;p&gt;XML es un lenguaje de marcado que se utiliza para almacenar y transportar datos de manera estructurada. En XML, los caracteres especiales como &lt;, &gt; y &quot; se representan utilizando entidades XML: &amp;lt;, &amp;gt; y &amp;quot; respectivamente.&lt;/p&gt;</contenido>
     </articulo>
 </articulos>
