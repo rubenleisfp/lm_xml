@@ -1,4 +1,4 @@
-A) Obtén el nombre del segundo estudiante en la primera clase:
+A) Obtén el nombre de la tercera tarea
 
 B) Obtén la primera tarea de cada categoría
 
