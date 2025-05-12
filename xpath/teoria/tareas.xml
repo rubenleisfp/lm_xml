@@ -1,0 +1,26 @@
+<TareasPorHacer>
+    <Categoria nombre="Personal">
+        <Tarea>
+            <Titulo>Ir al gimnasio</Titulo>
+            <Prioridad>Alta</Prioridad>
+            <Fecha>2024-04-05</Fecha>
+        </Tarea>
+        <Tarea>
+            <Titulo>Comprar víveres</Titulo>
+            <Prioridad>Media</Prioridad>
+            <Fecha>2024-04-07</Fecha>
+        </Tarea>
+    </Categoria>
+    <Categoria nombre="Trabajo">
+        <Tarea>
+            <Titulo>Preparar presentación</Titulo>
+            <Prioridad>Alta</Prioridad>
+            <Fecha>2024-04-06</Fecha>
+        </Tarea>
+        <Tarea>
+            <Titulo>Enviar informe trimestral</Titulo>
+            <Prioridad>Alta</Prioridad>
+            <Fecha>2024-04-10</Fecha>
+        </Tarea>
+    </Categoria>
+</TareasPorHacer>
