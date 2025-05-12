@@ -1,5 +1,5 @@
-A) Obtén el nombre del segundo estudiante en la primera clase:
-(//Tarea)[2]
+A) Obtén la tercera tarea de todas las disponibles
+(//Tarea)[3]
 
 B) Obtén la primera tarea de cada categoría
 //Tarea[1]
@@ -10,10 +10,8 @@ C) Obtén la última tarea de cada categoría, hazlo mediante last,ya que en est
 D) Obtén las categorías que tengan un atributo nombre
 //Categoria[@nombre]
 
-
 E) Obtén las categorías que tengan un atributo nombre con valor “Trabajo”
 //Categoria[@nombre="Trabajo"]
-
 
 F) Obtén todas las tareas con prioridad alta
 //Tarea[Prioridad="Alta"]
