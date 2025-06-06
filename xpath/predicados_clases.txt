@@ -1,8 +1,8 @@
 A) Obtén el nombre del segundo estudiante en la primera clase:
 /Clases/Clase[1]/Estudiante[2]/Nombre
 
-B) Obtén la calificación de Elena en Ciencias:
-/Clases/Clase[@tema='Ciencias']/Estudiante[Nombre='Elena']/Calificación
+B) Obtén la Calificacion de Elena en Ciencias:
+/Clases/Clase[@tema='Ciencias']/Estudiante[Nombre='Elena']/Calificacion
 
 C) Obtén el tema de la última clase:
 /Clases/Clase[last()]/@tema
@@ -10,5 +10,5 @@ C) Obtén el tema de la última clase:
 D) Obtén todos los nombres de los estudiantes:
 /Clases/Clase/Estudiante/Nombre
 
-E) Obtén los nombres de los estudiantes que tienen una calificación de 90 o superior:
-/Clases/Clase/Estudiante[Calificación >= 90]/Nombre
+E) Obtén los nombres de los estudiantes que tienen una Calificacion de 90 o superior:
+/Clases/Clase/Estudiante[Calificacion >= 90]/Nombre
