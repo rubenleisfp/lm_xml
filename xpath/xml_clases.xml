@@ -2,39 +2,39 @@
     <Clase tema="Matemáticas">
         <Estudiante>
             <Nombre>Juan</Nombre>
-            <Calificación>85</Calificación>
+            <Calificacion>85</Calificacion>
         </Estudiante>
         <Estudiante>
             <Nombre>Maria</Nombre>
-            <Calificación>92</Calificación>
+            <Calificacion>92</Calificacion>
         </Estudiante>
         <Estudiante>
             <Nombre>Pedro</Nombre>
-            <Calificación>78</Calificación>
+            <Calificacion>78</Calificacion>
         </Estudiante>
     </Clase>
     <Clase tema="Historia">
         <Estudiante>
             <Nombre>Ana</Nombre>
-            <Calificación>90</Calificación>
+            <Calificacion>90</Calificacion>
         </Estudiante>
         <Estudiante>
             <Nombre>Luis</Nombre>
-            <Calificación>87</Calificación>
+            <Calificacion>87</Calificacion>
         </Estudiante>
     </Clase>
     <Clase tema="Ciencias">
         <Estudiante>
             <Nombre>Sofía</Nombre>
-            <Calificación>95</Calificación>
+            <Calificacion>95</Calificacion>
         </Estudiante>
         <Estudiante>
             <Nombre>Carlos</Nombre>
-            <Calificación>80</Calificación>
+            <Calificacion>80</Calificacion>
         </Estudiante>
         <Estudiante>
             <Nombre>Elena</Nombre>
-            <Calificación>88</Calificación>
+            <Calificacion>88</Calificacion>
         </Estudiante>
     </Clase>
 </Clases>
