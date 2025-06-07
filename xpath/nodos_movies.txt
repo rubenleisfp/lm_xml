@@ -4,5 +4,5 @@ B) Devuele el nombre de todos los actores
 //actor/name
 C) Devuelve el nombre todas las peliculas en las que participa el actor favorito
 //actor/movies/movie/name
-C) Devuelve el nombre las peliculas favoritas
+D) Devuelve el nombre las peliculas favoritas
 /interests/movies/movie/name
